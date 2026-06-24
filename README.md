@@ -10,7 +10,7 @@
 <a href="https://github.com/JAIVARDHAN1402"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/JAIVARDHAN1402"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-<br/><br/>
+<br/>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=JAIVARDHAN1402&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
  -->
