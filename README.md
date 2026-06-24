@@ -12,7 +12,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=JAIVARDHAN1402&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=JAIVARDHAN1402&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
+ -->
 
 </div>
 
