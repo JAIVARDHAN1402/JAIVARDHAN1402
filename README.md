@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="hero.svg?v=1" alt="Jaivardhan Singh — Full-Stack Developer" width="100%"/>
+<img src="hero.svg?v=2" alt="Jaivardhan Singh — Full-Stack Developer" width="100%"/>
 
-<img src="about-life.svg?v=1" alt="What I build and what I do" width="100%"/>
+<img src="about-life.svg?v=2" alt="What I build and what I do" width="100%"/>
 
-<img src="stack.svg?v=1" alt="Tech stack" width="100%"/>
+<img src="stack.svg?v=2" alt="Tech stack" width="100%"/>
 
-<img src="id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
+<img src="id-dashboard.svg?v=2" alt="Developer ID and dashboard" width="100%"/>
+
+<img src="leetcode.svg?v=1" alt="LeetCode stats" width="100%"/>
 
 </div>
 
@@ -33,11 +35,11 @@
 
 <div align="center">
 
-<img src="connect.svg?v=1" alt="Connect with me" width="100%"/>
+<img src="connect.svg?v=2" alt="Connect with me" width="100%"/>
 
 <a href="https://linkedin.com/in/jaivardhansingh14"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jaivardhan1402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/JAIVARDHAN1402"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/JAIVARDHAN1402"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/JAIVARDHAN1402"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
