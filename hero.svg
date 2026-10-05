@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="hero">
+<defs>
+<linearGradient id="hero-aur" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<linearGradient id="hero-aurv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="hero-dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#ffffff" opacity=".05"/></pattern>
+</defs>
+<rect width="900" height="320" fill="#0d0e16" rx="18"/>
+<rect width="900" height="320" fill="url(#hero-dots)" rx="18"/>
+
+<defs>
+<clipPath id="hero-type"><rect x="48" y="78" width="260" height="30"><animate attributeName="width" values="0;260;260" keyTimes="0;.5;1" dur="2.4s" fill="freeze"/></rect></clipPath>
+<mask id="hero-rise"><rect x="40" y="0" width="520" height="190" fill="#fff"><animate attributeName="y" values="60;0" keyTimes="0;1" dur="1.2s" begin="0.6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect></mask>
+<radialGradient id="hero-fade" cx=".5" cy=".5" r=".6"><stop offset=".55" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+<mask id="hero-vm"><rect x="560" y="30" width="300" height="230" fill="url(#hero-fade)"/></mask>
+<radialGradient id="hero-glow" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#a78bfa" stop-opacity=".45"/><stop offset="1" stop-color="#0d0e16" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="24" y="22" width="852" height="276" rx="16" fill="#12131d"/>
+<rect x="24.5" y="22.5" width="851" height="275" rx="15.5" fill="none" stroke="url(#hero-aur)" stroke-opacity=".5"/>
+<!-- pill -->
+<rect x="48" y="40" width="190" height="26" rx="13" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".5"/>
+<circle cx="64" cy="53" r="4" fill="#4ade80"><animate attributeName="r" values="4;7;4" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="64" cy="53" r="3.5" fill="#4ade80"/>
+<text x="78" y="58" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" fill="#e5e7eb">open to SDE roles</text>
+<!-- typed -->
+<g clip-path="url(#hero-type)"><text x="48" y="100" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="18" fill="#9ca3af">Hi there, I'm</text></g>
+<rect x="48" y="86" width="2" height="18" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="3"/></rect>
+<g mask="url(#hero-rise)"><text x="46" y="158" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="48" fill="url(#hero-aur)">Jaivardhan Singh
+<animate attributeName="fill-opacity" values="1;1" dur="1s"/></text></g>
+<text x="48" y="212" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="19" fill="#22d3ee" opacity="1">&gt; Full-Stack Developer<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.22;.25;1" dur="10s" repeatCount="indefinite"/></text><text x="48" y="212" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="19" fill="#22d3ee" opacity="0">&gt; 2× SDE Intern<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.22;0.25;0.47;0.50;1" dur="10s" repeatCount="indefinite"/></text><text x="48" y="212" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="19" fill="#22d3ee" opacity="0">&gt; Next.js · MongoDB<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.47;0.50;0.72;0.75;1" dur="10s" repeatCount="indefinite"/></text><text x="48" y="212" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="19" fill="#22d3ee" opacity="0">&gt; AI / RAG tinkerer<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.72;.75;1" dur="10s" repeatCount="indefinite"/></text>
+<text x="48" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#cbd5e1">I build web apps and AI tools, from placement trackers to offline video RAG.</text>
+<!-- meta -->
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" fill="#9ca3af">
+<g transform="translate(48,268)"><path d="M6 0 a5 5 0 0 1 5 5 c0 4 -5 9 -5 9 s-5 -5 -5 -9 a5 5 0 0 1 5 -5z" fill="none" stroke="#f472b6" stroke-width="1.4"/><circle cx="6" cy="5" r="1.6" fill="#f472b6"/><text x="18" y="11">VIT Vellore</text></g>
+<g transform="translate(160,268)"><rect x="0" y="3" width="12" height="9" rx="1.5" fill="none" stroke="#a78bfa" stroke-width="1.4"/><path d="M4 3 v-2 h4 v2" fill="none" stroke="#a78bfa" stroke-width="1.4"/><text x="18" y="11">Timken · Tata Cummins</text></g>
+<g transform="translate(340,268)"><path d="M6 0 l1.8 4 4.2 .4 -3.2 2.8 1 4.2 -3.8 -2.3 -3.8 2.3 1 -4.2 -3.2 -2.8 4.2 -.4z" fill="none" stroke="#22d3ee" stroke-width="1.2"/><text x="18" y="11">13 repos</text></g>
+</g>
+<!-- viewfinder -->
+<rect x="560" y="30" width="300" height="230" fill="url(#hero-glow)"/>
+<g mask="url(#hero-vm)"><g transform="translate(710,120) scale(1.15)"><g>
+<path d="M-62 150 Q-62 62 -30 52 L30 52 Q62 62 62 150 Z" fill="#e5e7eb"/>
+<path d="M-15 52 L0 82 L15 52 Z" fill="#fbbf24"/><line x1="0" y1="82" x2="0" y2="150" stroke="#9ca3af" stroke-width="2"/>
+<line x1="-52" y1="72" x2="-56" y2="128" stroke="#e5e7eb" stroke-width="20" stroke-linecap="round"/><circle cx="-56" cy="132" r="10" fill="#f3c9a4"/>
+<rect x="-9" y="30" width="18" height="26" fill="#e0b48f"/>
+<ellipse cx="0" cy="0" rx="33" ry="38" fill="#f3c9a4"/>
+<path d="M-37 -2 Q-42 -50 0 -50 Q42 -50 37 -2 Q31 -27 0 -29 Q-31 -27 -37 -2Z" fill="#1f1630"/>
+<g><rect x="-27" y="-41" width="23" height="11" rx="4.5" fill="#0b0b12"/><rect x="4" y="-41" width="23" height="11" rx="4.5" fill="#0b0b12"/><line x1="-4" y1="-36" x2="4" y2="-36" stroke="#0b0b12" stroke-width="2.5"/>
+<path d="M-24 -39 L-14 -39" stroke="#22d3ee" stroke-width="1.5" opacity=".8"/><path d="M7 -39 L17 -39" stroke="#f472b6" stroke-width="1.5" opacity=".8"/></g>
+<circle cx="-12" cy="3" r="3.4" fill="#1f2937"><animate attributeName="ry" values="3.4;3.4;0.4;3.4" keyTimes="0;.9;.95;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="12" cy="3" r="3.4" fill="#1f2937"/>
+<ellipse cx="-21" cy="14" rx="6" ry="3.5" fill="#f472b6" opacity=".3"/><ellipse cx="21" cy="14" rx="6" ry="3.5" fill="#f472b6" opacity=".3"/>
+<path d="M-11 17 Q0 28 11 17" fill="none" stroke="#7c2d12" stroke-width="2.2" stroke-linecap="round"/>
+<g transform="translate(46,70)"><animateTransform attributeName="transform" type="rotate" additive="sum" values="-8;22;-8;22;-8;22;-8" dur="2s" repeatCount="indefinite"/><line x1="0" y1="0" x2="24" y2="-50" stroke="#e5e7eb" stroke-width="20" stroke-linecap="round"/><circle cx="26" cy="-58" r="10" fill="#f3c9a4"/></g>
+</g></g></g>
+<g fill="none" stroke="url(#hero-aur)" stroke-width="3" stroke-linecap="round">
+<path d="M560 56 V30 H586" stroke-dasharray="52" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="52;0" dur=".8s" fill="freeze"/></path>
+<path d="M834 30 H860 V56" stroke-dasharray="52"><animate attributeName="stroke-dashoffset" values="52;0" dur=".8s" fill="freeze"/></path>
+<path d="M560 234 V260 H586" stroke-dasharray="52"><animate attributeName="stroke-dashoffset" values="52;0" dur=".8s" fill="freeze"/></path>
+<path d="M834 260 H860 V234" stroke-dasharray="52"><animate attributeName="stroke-dashoffset" values="52;0" dur=".8s" fill="freeze"/></path>
+</g>
+<circle cx="580" cy="48" r="5" fill="#ef4444"><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" dur="1s" repeatCount="indefinite"/></circle>
+<text x="592" y="52" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11" fill="#e5e7eb">REC</text>
+<text x="780" y="52" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10" fill="#9ca3af" text-anchor="middle">wave_01.mov</text>
+<rect x="584" y="244" width="252" height="4" rx="2" fill="#ffffff" fill-opacity=".12"/>
+<rect x="584" y="244" width="252" height="4" rx="2" fill="url(#hero-aur)"><animate attributeName="width" values="0;252;252" keyTimes="0;.6;1" dur="4s" repeatCount="indefinite"/></rect>
+
+</svg>
