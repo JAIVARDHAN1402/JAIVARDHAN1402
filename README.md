@@ -2,7 +2,7 @@
 
 <img src="hero.svg?v=2" alt="Jaivardhan Singh — Full-Stack Developer" width="100%"/>
 
-<img src="about-life.svg?v=2" alt="What I build and what I do" width="100%"/>
+<img src="about-life.svg?v=3" alt="What I build and what I do" width="100%"/>
 
 <img src="stack.svg?v=2" alt="Tech stack" width="100%"/>
 
